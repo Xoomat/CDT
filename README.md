@@ -1,2 +1,1 @@
-# iw6x-bypass
-iw6x bypass for cod ghost
+Это закрытая версия для CoD Ghosts IW6X
